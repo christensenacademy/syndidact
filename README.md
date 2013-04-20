@@ -1,0 +1,4 @@
+syndidact
+=========
+
+Together we learn.
