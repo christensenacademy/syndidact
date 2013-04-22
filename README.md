@@ -16,5 +16,10 @@ The current system of education and the underlying model it's built on are so in
 Because I want to help you engage with the same ideas I've been grappling with over the past 18 months, and because I have little interest in trying to tell people what to think, I'll be presenting ideas around genuine questions. I've tried hard to make each question authentic in that I'm not prescribing a correct answer. I hope the tone of the book is one of humility and joy. I've had a really fun time tackling these questions on my own, and I hope you will feel similarly.
 
 ###What is Education?
-
-I don't think it's good to get hung up on this question for too long, but it is important to at least consider at the outset. 
+###Why do we (humanity) need education?
+###What need of society should a system of education fulfill?
+###Are schools the best places for people to learn?
+###Do we need compulsory education?
+###What amount of education should be compulsory?
+###To what extent should individuals be able to choose what they learn?
+###Is choice a right earned only by adults?
