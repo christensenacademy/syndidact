@@ -23,3 +23,17 @@ Because I want to help you engage with the same ideas I've been grappling with o
 ###What amount of education should be compulsory?
 ###To what extent should individuals be able to choose what they learn?
 ###Is choice a right earned only by adults?
+###If you didn't have to worry about getting credit for your learning, what would be your preferred mode of learning?
+###How does the current system of education mesh with what we know about general principles of human motivation?
+###How important is is for learning to be tied to credentialing?
+###When employers look at a transcript, what sorts of things do they infer from it?
+###What sorts of information related to education do we need to be able to communicate in a reliable way throughout society?
+###From an economic perspective, what use is education? What purposes does education serve?
+###From an egalitarian perspective, what do we need out of a system of education?
+###From a democractic perspective, what do we need out of a system of education?
+###To what extent should a system of education cater to the best and brightest, those who appear to have the potential to expand the growing sphere of human knowledge and understanding of the universe?
+###To what extent should the focus of education be empowering individuals
+###
+
+
+
